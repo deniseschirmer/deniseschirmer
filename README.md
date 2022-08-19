@@ -1,7 +1,7 @@
 ### Hi, I'm Denise L Schirmer 👋
 Migrating to the wonderful universe of programming!
 
-- 🌱 I’m currently learning HTML, CSS and JAVASCRIPT
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT and REACT!
 - ⚡ I like to watch series, dogs and cats, and learn new things!
 
 <div align="center">
