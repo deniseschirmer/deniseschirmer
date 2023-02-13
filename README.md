@@ -1,7 +1,7 @@
 ### Hi, I'm Denise L Schirmer 👋
 
 
-- 🌱 I’m Front End Developer HTML, CSS, JAVASCRIPT, REACT and TYPESCRIPT!
+- 🌱 I’m Front End Developer, HTML, CSS, JAVASCRIPT, REACT and TYPESCRIPT!
 - ⚡ I like to watch series, dogs and cats, and learn new things!
 
 <div align="center">
