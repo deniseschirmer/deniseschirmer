@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m Front End Developer, HTML, CSS, JAVASCRIPT, REACT and TYPESCRIPT!
-- ⚡ I like to watch series, dogs and cats, and learn new things!
+- ⚡ I like to watch series, dogs and cats, and learn new things and I love dogs/cats...
 
 <div align="center">
 
