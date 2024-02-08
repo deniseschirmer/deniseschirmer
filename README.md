@@ -1,7 +1,7 @@
 
 Hi there 👋
 
-I'm Denise Schirmer, a passionate Front-end Developer with a goal to become a Full Stack Developer. 👩‍💻 Fascinated by technology, innovation, and entrepreneurship, I hold a degree in Analysis and Systems Development and specialize in software development, focusing on Front-End web applications.
+I'm Denise Schirmer, a passionate Front-end Developer with a goal to become a Full Stack Developer. 👩‍💻 Fascinated by technology, innovation, and entrepreneurship, I hold a degree in Analysis and Systems Development and specialize in software development, focusing on full stack developing.
 
 My experience encompasses various technologies and tools, including:
 
